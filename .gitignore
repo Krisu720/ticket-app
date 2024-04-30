@@ -1,0 +1,13 @@
+# big files
+
+# photos
+node_modules/
+
+# secret files
+
+.env/
+
+# useless files
+
+# *.pyc
+# __pycache__/
